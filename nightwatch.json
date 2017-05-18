@@ -1,0 +1,23 @@
+{
+  "src_folders" : [],
+
+  "selenium" : {
+    "start_process" : true,
+    "server_path" : "",
+    "cli_args" : {
+      "webdriver.chrome.driver" : "",
+    }
+  },
+
+  "test_settings" : {
+    "default" : {
+      "launch_url" : "https://pinkherring-tableau.pantheonsite.io",
+      "screenshots" : {
+        "enabled" : false,
+        "path" : ""
+      },
+      "desiredCapabilities": {
+      }
+    }
+  }
+}
