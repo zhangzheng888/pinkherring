@@ -20,7 +20,7 @@
 
   "test_settings" : {
     "default" : {
-      "launch_url" : "http://localhost",
+      "launch_url" : "https://pinkherring-tableau.pantheonsite.io",
       "selenium_port"  : 4444,
       "selenium_host"  : "localhost",
       "silent": true,
@@ -36,7 +36,9 @@
 
     "chrome" : {
       "desiredCapabilities": {
-        "browserName": "chrome"
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
       }
     },
 
