@@ -13,7 +13,9 @@ module.exports = {
         browser.expect.element('#edit-profile-about-you-mail').to.be.visible;
         browser.submitForm('form').pause(50000);
 
-        browser.expect.element('h2').to.have.value.equal('Thanks for choosing a trial of Tableau Desktop');
+        //browser.expect.element('h2').to.have.value.equal('Thanks for choosing a trial of Tableau Desktop');
+        browser.expect.element('#auto-download').to.be.visible;
+        browser.pause(5000);
         //browser.acceptAlert();
         browser.end();
     }
