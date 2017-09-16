@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="tableau-form"
+    errors="0" failures="1" hostname="" id="" package="tableau-form" skipped="0"
+    tests="1" time="147.1" timestamp="Sat, 16 Sep 2017 01:33:34 GMT">
+  
+    <testcase name="Tableau Trial Fill Email" classname="tableau-form" time="147.1" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;h2&gt; to have value equal to: &quot;Thanks for choosing a trial of Tableau Desktop&quot;">    at Object.Tableau Trial Fill Email (/Users/kzhang/Public/pinkherring/tests/tableau-form.js:16:24)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

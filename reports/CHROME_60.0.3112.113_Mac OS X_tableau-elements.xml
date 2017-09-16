@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="tableau-elements"
+    errors="0" failures="0" hostname="" id="" package="tableau-elements" skipped="0"
+    tests="3" time="85.01" timestamp="Fri, 15 Sep 2017 09:59:26 GMT">
+  
+    <testcase name="Tableau Logo Present" classname="tableau-elements" time="84.86" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Tableau Email Text Box Present" classname="tableau-elements" time="0.03400" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Tableau Submit Button Present" classname="tableau-elements" time="0.1150" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

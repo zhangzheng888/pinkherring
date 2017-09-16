@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="tableau-form2"
+    errors="0" failures="0" hostname="" id="" package="tableau-form2" skipped="0"
+    tests="1" time="97.45" timestamp="Fri, 15 Sep 2017 18:07:19 GMT">
+  
+    <testcase name="Tableau Trial Fill Email 2" classname="tableau-form2" time="97.45" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
